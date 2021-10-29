@@ -7,4 +7,4 @@ a='李老师'
 print(a)
 print(type(a))
 
-this is a test repository for wmy
+This is a test repository for wmy
